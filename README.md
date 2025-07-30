@@ -1,5 +1,5 @@
 # XERCISE_API
-Mobile application
+- Mobile application
 This is the backend API for XERCISE application. This program provides frontend application with endpoints, services, dbcontext and supports Microsoft Entra ID authentication. You can use official XERCISE frontend for full functionality or build your own.
 
 ## Content
